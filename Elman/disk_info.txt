@@ -1,0 +1,3 @@
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  161G   58G  103G  36% /
+D:                    317G   43G  274G  14% /d
